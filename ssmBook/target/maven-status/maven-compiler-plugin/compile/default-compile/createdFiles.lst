@@ -1,0 +1,7 @@
+com\book\controller\githubLogin.class
+com\book\test\test.class
+com\book\service\impl\BookServiceImpl.class
+com\book\dao\BookMapper.class
+com\book\domain\Book.class
+com\book\controller\BookController.class
+com\book\service\BookService.class
