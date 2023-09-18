@@ -5,7 +5,3 @@ spring:
     cache: false
     prefix: classpath:/templates/
     suffix: .html
-
-alipay:
-  user:
-    app_id: "9021000128625868"
